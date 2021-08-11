@@ -69,5 +69,3 @@ Following are some of the insights from EDA,
 
 **Note:** For some more insights related to Salary and others, please explore the Data Analysis notebook from [here](https://nbviewer.jupyter.org/github/kulkarni-vishwanath/Data-Analysis-Project-From-Scratch/blob/main/Data_Analysis.ipynb). 
 I've linked the Jupyter Notebook Viewer version of the Data Analysis file as some of the Plotly Visualizations do not appear in the plain version. 
-
-Please feel free to leave any comments / suggestions as they are always helpful. 

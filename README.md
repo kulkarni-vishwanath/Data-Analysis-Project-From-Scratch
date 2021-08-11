@@ -35,4 +35,17 @@ The aim of this project is to scrape the job postings related to Data Science an
 - Job_Type
 - Posting
 
+**Note:** Selenium was used to scrape the data and as long as the names of the elements in the HTML file do not change, this works just fine. 
+
 # Cleaning the raw data
+
+- Reviews column was split based on the White space to get the count of the number of reviews.
+- Experience column was split based on the Hyphen to et the Minimum and Maximum experience needed. 
+- The exact number of days since the job posting was obtained by splitting Posted column based on certain text and relevant information was obtained. 
+- Salary column was alphanumeric and approproate steps were taken to get the Minimum, Maximum and Average salary.
+- Tags column was split based on the Newline character and all the tags were joined by comma.
+- Location column had a lot of duplicate values and there were many values replaced with approproate replacements. 
+
+**Note:** Although extensive data cleaning was performed, some of the minute details migt have been left out. 
+
+# Exploratory Data Analysis

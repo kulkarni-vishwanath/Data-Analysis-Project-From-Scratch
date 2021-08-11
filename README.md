@@ -51,8 +51,18 @@ The aim of this project is to scrape the job postings related to Data Science an
 
 # Exploratory Data Analysis
 
-Following are the insights from EDA,
+Following are some of the insights from EDA,
 
-1. An experience of 4-6 Yrs seems to be most preferred followed by 6-8 years of experience. Following chart explains the distribution of experience level preferred,
+1. An experience of 4-6 Yrs seems to be most preferred followed by 6-8 years of experience.
+2. Data Scientist and Data Analyst are the top 2 job titles, Data Engineer and Senior Data Scientist also feature in top 15 job titles. It was also observed that most of the other titles did not directly refer to DS / ML, but the skillset suggested otherwise. 
+3. Bengaluru tops the list of most preferred locations followed by Hyderabad and Pune. 
+4. Java, SQL and Python were the top 3 programming languages that were preferred.
+5. Accenture tops the list of companies with most number of Job openings with 78.2% of total job openings, followed by IBM and Bajaj FinServ. Surprisingly, none of the companies focused on Data Science / Machine Learning fall in the top 10.
+6. Tableau, PowerBI and IBM Cognos were the most preferred Visualization tools. 
+7. SAP, Microsoft Azure, AWS were the top cloud platforms. 
 
 ![Experience](https://user-images.githubusercontent.com/25604111/129079385-b33a2918-ff8f-4472-ab92-710fa13297b2.png)
+![Titles](https://user-images.githubusercontent.com/25604111/129080321-9b32b76a-e3c8-422a-b763-c94dd9ff53b8.png)
+![Locations](https://user-images.githubusercontent.com/25604111/129079664-a3af7398-39ff-4667-a0ff-29d6165b4b83.png)
+![Languages](https://user-images.githubusercontent.com/25604111/129080503-19135a16-dbba-4581-b7a4-23f5b711d64f.png)
+![Companies](https://user-images.githubusercontent.com/25604111/129079948-2121b874-6cab-451d-b7fa-422a6d90466d.png)

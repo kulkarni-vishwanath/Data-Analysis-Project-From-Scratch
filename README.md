@@ -54,4 +54,5 @@ The aim of this project is to scrape the job postings related to Data Science an
 Following are the insights from EDA,
 
 1. An experience of 4-6 Yrs seems to be most preferred followed by 6-8 years of experience. Following chart explains the distribution of experience level preferred,
+
 ![Experience](https://user-images.githubusercontent.com/25604111/129079385-b33a2918-ff8f-4472-ab92-710fa13297b2.png)

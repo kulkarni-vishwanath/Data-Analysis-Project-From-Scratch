@@ -66,3 +66,5 @@ Following are some of the insights from EDA,
 ![Locations](https://user-images.githubusercontent.com/25604111/129079664-a3af7398-39ff-4667-a0ff-29d6165b4b83.png)
 ![Languages](https://user-images.githubusercontent.com/25604111/129080503-19135a16-dbba-4581-b7a4-23f5b711d64f.png)
 ![Companies](https://user-images.githubusercontent.com/25604111/129079948-2121b874-6cab-451d-b7fa-422a6d90466d.png)
+
+**Note:** For some more insights related to Salary and others, please explore the Data Analysis notebook from [here](https://nbviewer.jupyter.org/github/kulkarni-vishwanath/Data-Analysis-Project-From-Scratch/blob/main/Data_Analysis.ipynb). I've linked the Jupyter Notebook Viewer version of the Data Analysis file as some of the Plotly Visualizations do not appear in the plain version. 

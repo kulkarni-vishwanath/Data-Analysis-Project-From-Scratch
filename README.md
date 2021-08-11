@@ -45,7 +45,13 @@ The aim of this project is to scrape the job postings related to Data Science an
 - Salary column was alphanumeric and approproate steps were taken to get the Minimum, Maximum and Average salary.
 - Tags column was split based on the Newline character and all the tags were joined by comma.
 - Location column had a lot of duplicate values and there were many values replaced with approproate replacements. 
+- Duplicate rows were dropped. 
 
 **Note:** Although extensive data cleaning was performed, some of the minute details migt have been left out. 
 
 # Exploratory Data Analysis
+
+Following are the insights from EDA,
+
+1. An experience of 4-6 Yrs seems to be most preferred followed by 6-8 years of experience. Following chart explains the distribution of experience level preferred,
+![Experience](https://user-images.githubusercontent.com/25604111/129079385-b33a2918-ff8f-4472-ab92-710fa13297b2.png)

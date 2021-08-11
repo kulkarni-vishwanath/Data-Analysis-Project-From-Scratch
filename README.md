@@ -1,2 +1,3 @@
 # Data-Analysis-Project-From-Scratch
-This repository contains the code for Data Analysis Project from scratch.
+## The aim of this project is to scrape the job postings related to Data Science and Machine Learning domain and analyze them. 
+

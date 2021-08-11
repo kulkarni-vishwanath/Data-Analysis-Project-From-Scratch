@@ -1,6 +1,11 @@
 # Data-Analysis-Project-From-Scratch
 
-The aim of this project is to scrape the job postings related to Data Science and Machine Learning domain and analyze them. 
+The aim of this project is to scrape the job postings related to Data Science and Machine Learning domain and analyze them. The project covers following aspects of any DS / ML project,
+
+1. Data Collection.
+2. Data Cleaning.
+3. Data Analysis.
+4. Data Visualization. 
 
 # Project Structure
 

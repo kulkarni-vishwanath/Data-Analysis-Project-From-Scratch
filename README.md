@@ -19,3 +19,17 @@ The aim of this project is to scrape the job postings related to Data Science an
 - **seaborn**: 0.11.1
 - **selenium**: 3.141.0
 - **spacy**: 2.3.5
+
+# Web Scraping
+
+20000 Job postings were scraped from the job portal and for each job posting following details were obtained,
+**Title**
+**Company**
+**Experience**
+**Location**
+**Tags**
+**Ratings**
+**Reviews**
+**Salary**
+**Job_Type**
+**Posting**

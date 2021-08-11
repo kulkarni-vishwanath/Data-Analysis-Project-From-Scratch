@@ -22,14 +22,17 @@ The aim of this project is to scrape the job postings related to Data Science an
 
 # Web Scraping
 
-20000 Job postings were scraped from the job portal and for each job posting following details were obtained,
-- **Title**
-- **Company**
-- **Experience**
-- **Location**
-- **Tags**
-- **Ratings**
-- **Reviews**
-- **Salary**
-- **Job_Type**
-- **Posting**
+20000 Job postings were scraped from the job portal and for each job posting following details were obtained, and all the details were converted to a comma separated file (Raw_Data.csv)
+
+- Title
+- Company
+- Experience
+- Location
+- Tags
+- Ratings
+- Reviews
+- Salary
+- Job_Type
+- Posting
+
+# Cleaning the raw data
